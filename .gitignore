@@ -4,4 +4,4 @@
 .terraform.lock.hcl
 *.tfvars
 .infracost/
-
+terraform.tfvars
