@@ -4,7 +4,7 @@ variable "common_tags" {
 
 variable "out_name" {
   description = "Valor para la estrategia de nombres"
-  type        =  map(string) 
+  type        = string
 }
 
 variable "env" {
