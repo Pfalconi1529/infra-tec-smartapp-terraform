@@ -29,3 +29,4 @@ variable "ubuntu_ami" {
     us-west-2 = "ami-005383956f2e5fb96" # Ubuntu en London
   }
 }
+
