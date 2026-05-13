@@ -4,6 +4,5 @@ variable "name_handler" {
   default = {
     "org" = "tecsmartapp"
     "app"        = "payments"
-    "owner"      = "devops"    
   }
 }
